@@ -2,6 +2,11 @@
 
 This repository is **only** for the [GitHub profile Overview](https://github.com/rnixai). The content of **README.md** is displayed there.
 
+## Logo & avatar
+
+- **`assets/icon.svg`** — Used in the profile README (top of page).
+- **`assets/avatar.png`** (512×512) — Use as the **GitHub profile avatar**: [GitHub → Settings → Profile](https://github.com/settings/profile) → upload `avatar.png` (or download from [raw](https://raw.githubusercontent.com/rnixai/rnixai/main/assets/avatar.png)).
+
 ## Updating the profile
 
 1. Edit **README.md** in this repo.

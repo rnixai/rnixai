@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="assets/icon.svg" alt="Rnix" width="128" />
+</div>
+
 # Hi, we're Rnix
 
 **An operating system for AI agents — powered by Unix philosophy.**
